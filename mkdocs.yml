@@ -1,4 +1,19 @@
 site_name: ARE
 site_description: ARE Review Documentation
+site_author: Jeff Eichert 
 theme: flatly 
+pages: 
+  - Home: 'index.md'
+  - Sections:  
+    - CDS: 'cds/index.md'
+    - PPP: 'ppp/index.md'
+    - SPD: 'spd/index.md'
+    - BDCS: 'bdcs/index.md'
+    - SS: 'ss/index.md'
+    - BS: 'bs/index.md'
+    - SD: 'sd/index.md'
+  - About: 
+    - Contact: 'about/contact.md'
+    - License: 'about/LICENSE.md'
 repo_url: https://github.com/jeichert/ARE
+copyright: "These notes are licensed under the <a href='https://github.com/jeichert/ARE/blob/master/LICENSE.md'>MIT license</a>"
