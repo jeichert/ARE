@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "ARE\n\n\nARE 4.0 Review Manual\n\n\n\n\nOverview\n\n\nEach section has its own subpage up-top, for related notes for each section please see their respective pages under the \nSECTIONS\n subnav selection, or review the table of contents below that represents the up-to-date list of all sections encompassed in these notes.\n\n\nThis is a work in progress and represents the current up to date notes that I have been taking for my upcoming adventure into taking the ARE 4.0 exams. This is by no means and exhaustive resource for all ARE related information.\n\n\nTable of Contents\n\n\n\n\nCDS:",
+            "title": "Home"
+        },
+        {
+            "location": "/#are",
+            "text": "",
+            "title": "ARE"
+        },
+        {
+            "location": "/#are-40-review-manual",
+            "text": "",
+            "title": "ARE 4.0 Review Manual"
+        },
+        {
+            "location": "/#overview",
+            "text": "Each section has its own subpage up-top, for related notes for each section please see their respective pages under the  SECTIONS  subnav selection, or review the table of contents below that represents the up-to-date list of all sections encompassed in these notes.  This is a work in progress and represents the current up to date notes that I have been taking for my upcoming adventure into taking the ARE 4.0 exams. This is by no means and exhaustive resource for all ARE related information.",
+            "title": "Overview"
+        },
+        {
+            "location": "/#table-of-contents",
+            "text": "CDS:",
+            "title": "Table of Contents"
+        },
+        {
+            "location": "/cds/",
+            "text": "",
+            "title": "CDS"
+        },
+        {
+            "location": "/ppp/",
+            "text": "",
+            "title": "PPP"
+        },
+        {
+            "location": "/spd/",
+            "text": "",
+            "title": "SPD"
+        },
+        {
+            "location": "/bdcs/",
+            "text": "",
+            "title": "BDCS"
+        },
+        {
+            "location": "/ss/",
+            "text": "",
+            "title": "SS"
+        },
+        {
+            "location": "/bs/",
+            "text": "",
+            "title": "BS"
+        },
+        {
+            "location": "/sd/",
+            "text": "",
+            "title": "SD"
+        },
+        {
+            "location": "/about/contact/",
+            "text": "",
+            "title": "Contact"
+        },
+        {
+            "location": "/about/LICENSE/",
+            "text": "The MIT License (MIT)\nCopyright (c) 2016 Jeff Eichert\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+            "title": "License"
+        }
+    ]
+}
