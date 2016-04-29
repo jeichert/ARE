@@ -1,19 +1,38 @@
 site_name: ARE
 site_description: ARE Review Documentation
-site_author: Jeff Eichert 
-theme: flatly 
-pages: 
+site_author: Jeff Eichert
+theme: material
+pages:
   - Home: 'index.md'
-  - Sections:  
-    - CDS: 'cds/index.md'
-    - PPP: 'ppp/index.md'
-    - SPD: 'spd/index.md'
-    - BDCS: 'bdcs/index.md'
-    - SS: 'ss/index.md'
-    - BS: 'bs/index.md'
-    - SD: 'sd/index.md'
-  - About: 
+  - Sections:
+    - PPP: 'ppp/ppp.md'
+    - CDS: 'cds/cds.md'
+    - SPD: 'spd/spd.md'
+    - BDCS: 'bdcs/bdcs.md'
+    - SS: 'ss/ss.md'
+    - BS: 'bs/bs.md'
+    - SD: 'sd/sd.md'
+  - About:
     - Contact: 'about/contact.md'
     - License: 'about/LICENSE.md'
-repo_url: https://github.com/jeichert/ARE
+repo_url: 'https://github.com/jeichert/ARE'
 copyright: "These notes are licensed under the <a href='https://github.com/jeichert/ARE/blob/master/LICENSE.md'>MIT license</a>"
+
+markdown_extensions:
+  - def_list
+  - admonition
+  - toc:
+      permalink: True #
+      separator: '-'
+
+extra:
+  version: '0.0.1'
+  logo: ''
+  palette:
+    primary: ''
+    accent: ''
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  author:
+    github: 'jeichert'
